@@ -37,7 +37,7 @@ var app = {
     },
     // Update DOM on a Received Event
     receivedEvent: function(id) {
-        window.location = "http://uat.qqexplore.com";
+        window.location = "http://demo.hire-experts.com/";
 //        var parentElement = document.getElementById(id);
 //        var listeningElement = parentElement.querySelector('.listening');
 //        var receivedElement = parentElement.querySelector('.received');
